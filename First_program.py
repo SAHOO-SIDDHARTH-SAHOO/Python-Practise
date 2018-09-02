@@ -1,0 +1,10 @@
+#This is a comment,which is a non executable part of the program.
+print("Hey there!")
+print("What's your name?")
+print()
+name=input()
+print("Welcome "+name+" to the scholarship portal.")
+print("What's your age ?")
+print()
+age=input()
+print("After one year you will be "+ str(int(age)+1)+ " years old. ")
